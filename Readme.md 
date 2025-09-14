@@ -1,0 +1,40 @@
+# Real-Time Face Detection using OpenCV
+
+## Overview
+This project demonstrates **real-time face detection** using Python and OpenCV.  
+It utilizes the **Haar Cascade Classifier** to detect faces from a live webcam feed and highlights them with rectangles while displaying status messages dynamically.
+
+---
+
+## Features
+- Detect multiple faces in real-time.
+- Highlights detected faces with rectangles.
+- Shows dynamic status messages:
+  - "Face Detected" when one or more faces are found.
+  - "No Face Available" when no face is detected.
+- Simple and beginner-friendly Python implementation.
+
+---
+
+
+## Prerequisites
+- Python 3.x
+- OpenCV
+```bash
+
+pip install opencv-python
+
+
+pip install numpy
+
+How to access 
+
+
+git clone https://github.com/amandx36/RealTime-Face-Detection-OpenCV
+
+cd FaceDetection 
+pip install -r requirements.txt
+python liveFaceDetection.py 
+
+now you were good to gooooooooo              !!!!!!!!!!!!!!!!!!
+
